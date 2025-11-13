@@ -1,0 +1,1 @@
+# Database Module - Supabase integration

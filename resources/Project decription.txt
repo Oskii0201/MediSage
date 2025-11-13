@@ -1,0 +1,17 @@
+Project Description and Requirement:
+Your project is an opportunity to apply Deep Learning and AI concepts to real-world problems. This hands-on experience will demonstrate your understanding of the course material while building practical skills.
+ 
+You are asked the build an AI system consists of at least:
+1) A Deep Learning model
+2) LLM based Agent
+3) User Interface (it can be visual frontend or just CLI)
+You need to make a presentation and submit a report using the attached template:
+Your presentation should contain technical  details and real-time demonstration of your system
+ 
+Grading will be as follows:
+15%- Problem definition and dataset analysis
+20% - Novelty of the approach and importance of the problem
+15% - System/solution design and explanations of the reasons behind design selections
+15% - Explanation of the techniques used and developed
+15% - Preliminary analysis of the performance evaluation for the techniques used
+20% - Structure, clarity, and completeness of the presentation
