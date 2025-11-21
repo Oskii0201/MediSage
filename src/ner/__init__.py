@@ -1,1 +1,0 @@
-# NER Module - Named Entity Recognition for medications
