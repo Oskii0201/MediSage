@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit==1.39.0
+requests==2.32.3
+
+# Vector database
+qdrant-client==1.12.1
+sentence-transformers==3.3.1
+
+# Data processing
+numpy==2.2.0
+scikit-learn==1.6.0
+pandas==2.2.3
+
+# Jupyter (dla notebooków)
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# LLM: Ollama (zainstaluj z https://ollama.ai)
+# Nie wymaga biblioteki Python - używamy requests do API

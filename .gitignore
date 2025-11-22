@@ -25,6 +25,7 @@ wheels/
 
 # Environment
 .env
+.env.local
 .venv
 
 # IDE
@@ -38,7 +39,12 @@ wheels/
 data/raw_leaflets/*.txt
 data/raw_leaflets/*.json
 data/processed/*.pkl
+data/processed/clean_*.json
 data/datasets/*.json
+
+# Vector DB & Models
+qdrant_storage/
+ollama_models/
 
 # Models
 models/ner/*.pt
