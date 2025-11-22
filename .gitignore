@@ -66,3 +66,6 @@ logs/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Project resources (templates, presentations)
+resources/
